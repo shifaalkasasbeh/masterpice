@@ -8,7 +8,7 @@
 					
 
 					<p class="stext-107 cl7 size-201">
-						<img src="admin/images/2.png" style="height:200px; width:200px; " >
+						<img src="admin/images/2.png" style="height:200px; width:200px; background-color:white;" >
 						<!-- Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+962) 775272717 -->
 					</p>
 
