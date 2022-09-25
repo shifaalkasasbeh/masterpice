@@ -18,7 +18,7 @@ if(isset($_SESSION['loggeduser'])){
 	<script src="js/script_register.js"></script>
 	<style>
  body{
-        background:url(images/aas.jpg);
+        background:url(images/img-61.jpg);
         background-size: cover;
          filter:grayscale(60%);
 
@@ -100,19 +100,3 @@ if($count==1){
 
 </html>
 
-<!-- $login= "SELECT * FROM user WHERE password='$password' and email='$email' ";
- 
-
-$result=$pdo->query($login);
-$user=$result->fetch();
-$count=$result->rowCount();
-
-if($count==1){
-session_start();
-$_SESSION['loggeduser']=$email;
-header('location:profile.php');
-}else{
-	echo "<h3 style='color:red'>Invalid user name and password</h3>";
-}
-
-} -->
